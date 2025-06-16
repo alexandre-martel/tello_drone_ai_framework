@@ -32,14 +32,14 @@ bash run.sh
 
 Without arguments, it shows the help menu:
 
-=== Available choices ===
---choice 1 : Keyboard control of the drone
---choice 2 : Train the gesture recognition model
---choice 3 : Test the model with the camera (live test)
---choice 4 : Evaluate the model on CSV data
---choice 5 : Collect gestures from the camera
---choice 6 : Print saved gesture CSV
---choice 7 : Quit
+
+- choice 1 : Keyboard control of the drone
+- choice 2 : Train the gesture recognition model
+- choice 3 : Test the model with the camera (live test)
+- choice 4 : Evaluate the model on CSV data
+- choice 5 : Collect gestures from the camera
+- choice 6 : Print saved gesture CSV
+- choice 7 : Quit
 
 ### Example Usages
 
@@ -104,6 +104,8 @@ safe_move_right()
 safe_move_up()
 safe_move_down()
 ```
+
+---
 
 ## Author
 
