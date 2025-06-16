@@ -109,5 +109,5 @@ safe_move_down()
 
 ## Author
 
-Project carried out during a semester at Yamade Lab, Tohoku University, by Alexandre MARTEL
+Project carried out during a semester at Yamada Lab, Tohoku University, by Alexandre MARTEL
 Feel free to contribute or adapt the code for other use cases...
