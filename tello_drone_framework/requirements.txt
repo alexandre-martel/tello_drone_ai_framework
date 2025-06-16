@@ -1,0 +1,13 @@
+djitellopy
+cv2
+pygame
+numpy
+inference_sdk
+logging
+logging
+threading
+torch
+mediapipe
+sklearn
+csv
+pandas
